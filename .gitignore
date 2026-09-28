@@ -20,3 +20,6 @@ venv/
 
 # Generated data
 data/processed/
+
+# Raw documents
+data/raw/*.pdf
